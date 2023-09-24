@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/HTFI/static/css/main.073c9b0a.css",
+    "main.js": "/HTFI/static/js/main.974f553d.js",
+    "static/js/787.177e23c2.chunk.js": "/HTFI/static/js/787.177e23c2.chunk.js",
+    "index.html": "/HTFI/index.html",
+    "main.073c9b0a.css.map": "/HTFI/static/css/main.073c9b0a.css.map",
+    "main.974f553d.js.map": "/HTFI/static/js/main.974f553d.js.map",
+    "787.177e23c2.chunk.js.map": "/HTFI/static/js/787.177e23c2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.974f553d.js"
+  ]
+}
