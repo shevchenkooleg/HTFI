@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/HTFI/static/css/main.073c9b0a.css",
-    "main.js": "/HTFI/static/js/main.10f8ae00.js",
+    "main.css": "/HTFI/static/css/main.af2f1d43.css",
+    "main.js": "/HTFI/static/js/main.1ce59e1e.js",
     "static/js/787.177e23c2.chunk.js": "/HTFI/static/js/787.177e23c2.chunk.js",
     "index.html": "/HTFI/index.html",
-    "main.073c9b0a.css.map": "/HTFI/static/css/main.073c9b0a.css.map",
-    "main.10f8ae00.js.map": "/HTFI/static/js/main.10f8ae00.js.map",
+    "main.af2f1d43.css.map": "/HTFI/static/css/main.af2f1d43.css.map",
+    "main.1ce59e1e.js.map": "/HTFI/static/js/main.1ce59e1e.js.map",
     "787.177e23c2.chunk.js.map": "/HTFI/static/js/787.177e23c2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.10f8ae00.js"
+    "static/css/main.af2f1d43.css",
+    "static/js/main.1ce59e1e.js"
   ]
 }
